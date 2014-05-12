@@ -49,7 +49,7 @@ And that's it!
     * Colombia: [https://www.mercadopago.com/mco/herramientas/aplicaciones](https://www.mercadopago.com/mco/herramientas/aplicaciones)
 
 ```JAVA
-import mercadopago.MP;
+import com.mercadopago.MP;
 
 import org.codehaus.jettison.json.JSONException;
 import org.codehaus.jettison.json.JSONObject;
